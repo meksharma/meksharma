@@ -9,5 +9,5 @@ Product designer building design and development proofs of concept through vibe 
 | [Portfolio](https://meksharma.github.io/mehaks-portfolio-showcase-2026/) | Selected product design work, principles, and experience. |
 | [Outlook Card Framework](https://github.com/meksharma/outlook-ios-boilerplate/tree/mehak/2026_09_23_card-framework-build) | A SwiftUI design and development POC for AI-powered cards in Outlook Mobile. |
 | [Outlook Motion Phrasebook](https://meksharma.github.io/outlook-motion-lab/) | An interactive motion vocabulary and AI-ready prototyping prompt library for Outlook designers. |
-| [Teams Search](https://github.com/meksharma/Teams-Search-iOS-Boilerplate) | A SwiftUI design and development POC covering zero-query discovery, mixed results, and scoped search filters. |
+| [Teams Search](https://github.com/meksharma/Teams-Search-iOS-Boilerplate) | A SwiftUI design and development POC covering zero-query discovery, mixed results, and scoped search filters. Released worldwide (2023). |
 | [Agoda VIP](https://github.com/meksharma/Agoda-VIP) | A design POC of the AgodaVIP hotel booking journey. Released on iOS worldwide (2021). |
